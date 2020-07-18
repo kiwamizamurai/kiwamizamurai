@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+
+```
+$ pip uninstall kiwamizamurai
+
+.
+..
+...
+....
+
+kiwamizamurai was successfully uninstalled !
+
+This account is not revived anymore.
+```
+
+
 <!--
 **kiwamizamurai/kiwamizamurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
