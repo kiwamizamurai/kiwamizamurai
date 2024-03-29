@@ -4,8 +4,9 @@
 
 engineer from mathematics major.
 
-### Metrics :zap:
-![Metrics](/github-metrics.svg)
+### Recent Activity
+
+<!--START_SECTION:activity-->
 
 <table><tr><td valign="top" width="33%">
 
@@ -51,4 +52,7 @@ engineer from mathematics major.
 <!-- ends -->
 </td></tr></table>
 
+
+### Metrics :zap:
+![Metrics](/github-metrics.svg)
 
