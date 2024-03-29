@@ -7,11 +7,11 @@ engineer from mathematics major.
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1139](https://github.com/dbt-labs/dbt-bigquery/pull/1139#issuecomment-2024854051) in [dbt-labs/dbt-bigquery](https://github.com/dbt-labs/dbt-bigquery)
-2. 🗣 Commented on [#1138](https://github.com/dbt-labs/dbt-bigquery/issues/1138#issuecomment-2020231483) in [dbt-labs/dbt-bigquery](https://github.com/dbt-labs/dbt-bigquery)
-3. 🗣 Commented on [#843](https://github.com/AltimateAI/vscode-dbt-power-user/issues/843#issuecomment-2019335570) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
-4. 🗣 Commented on [#843](https://github.com/AltimateAI/vscode-dbt-power-user/issues/843#issuecomment-2019256332) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
-5. 🗣 Commented on [#1138](https://github.com/dbt-labs/dbt-bigquery/issues/1138#issuecomment-2019248093) in [dbt-labs/dbt-bigquery](https://github.com/dbt-labs/dbt-bigquery)
+1. 💪 Opened PR [#318](https://github.com/airbytehq/airbyte-platform/pull/318) in [airbytehq/airbyte-platform](https://github.com/airbytehq/airbyte-platform)
+2. 🗣 Commented on [#1139](https://github.com/dbt-labs/dbt-bigquery/pull/1139#issuecomment-2024854051) in [dbt-labs/dbt-bigquery](https://github.com/dbt-labs/dbt-bigquery)
+3. 🗣 Commented on [#1138](https://github.com/dbt-labs/dbt-bigquery/issues/1138#issuecomment-2020231483) in [dbt-labs/dbt-bigquery](https://github.com/dbt-labs/dbt-bigquery)
+4. 🗣 Commented on [#843](https://github.com/AltimateAI/vscode-dbt-power-user/issues/843#issuecomment-2019335570) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
+5. 🗣 Commented on [#843](https://github.com/AltimateAI/vscode-dbt-power-user/issues/843#issuecomment-2019256332) in [AltimateAI/vscode-dbt-power-user](https://github.com/AltimateAI/vscode-dbt-power-user)
 <!--END_SECTION:activity-->
 
 <table><tr><td valign="top" width="33%">
