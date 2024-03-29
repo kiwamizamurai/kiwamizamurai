@@ -7,6 +7,7 @@ engineer from mathematics major.
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <table><tr><td valign="top" width="33%">
 
