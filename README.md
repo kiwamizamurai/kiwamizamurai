@@ -61,5 +61,8 @@ engineer from mathematics major.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Modern Data Warehouse with dbt-athena](https://kiwamizamurai.github.io/posts/2022-08-25/)
+- [How to implement NN from scratch](https://kiwamizamurai.github.io/posts/2022-04-25/)
+- [How to enable latex on PaperMod](https://kiwamizamurai.github.io/posts/2022-03-06/)
 <!-- BLOG-POST-LIST:END -->
 
