@@ -59,6 +59,7 @@ engineer from mathematics major.
 </td></tr></table>
 
 
-### Metrics :zap:
-![Metrics](/github-metrics.svg)
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
