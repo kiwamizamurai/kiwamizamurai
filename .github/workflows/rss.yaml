@@ -14,7 +14,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # TODO OGP https://zoltantoma.com/posts/2023-05-10-fix-github-blog-post-action/
       - name: Get from feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://kiwamizamurai.github.io/index.xml"
+           max_post_count: 10
+           template: "- `$date` | [$title]($url)  $newline"
+           date_format: yyyy-mm-dd
+           tag_post_pre_newline: true
