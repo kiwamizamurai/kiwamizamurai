@@ -47,11 +47,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kiwamizamurai/image2grid/pull/1) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-2. 💪 Opened PR [#1](https://github.com/kiwamizamurai/image2grid/pull/1) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-3. 💪 Opened PR [#5368](https://github.com/dbt-labs/docs.getdbt.com/pull/5368) in [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-4. 🗣 Commented on [#59](https://github.com/docker/docker-credential-helpers/issues/59#issuecomment-2051089651) in [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers)
-5. 🗣 Commented on [#1139](https://github.com/dbt-labs/dbt-bigquery/pull/1139#issuecomment-2024854051) in [dbt-labs/dbt-bigquery](https://github.com/dbt-labs/dbt-bigquery)
+1. 🎉 Merged PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+2. 💪 Opened PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+3. 🎉 Merged PR [#1](https://github.com/kiwamizamurai/image2grid/pull/1) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+4. 💪 Opened PR [#1](https://github.com/kiwamizamurai/image2grid/pull/1) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+5. 💪 Opened PR [#5368](https://github.com/dbt-labs/docs.getdbt.com/pull/5368) in [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
 <!--END_SECTION:activity-->
 
 ### Blog posts
