@@ -47,11 +47,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5368](https://github.com/dbt-labs/docs.getdbt.com/pull/5368#issuecomment-2094037155) in [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-2. 🎉 Merged PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-3. 💪 Opened PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-4. 🎉 Merged PR [#1](https://github.com/kiwamizamurai/image2grid/pull/1) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-5. 💪 Opened PR [#1](https://github.com/kiwamizamurai/image2grid/pull/1) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+1. 🎉 Merged PR [#3](https://github.com/kiwamizamurai/image2grid/pull/3) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+2. 💪 Opened PR [#3](https://github.com/kiwamizamurai/image2grid/pull/3) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+3. 🗣 Commented on [#5368](https://github.com/dbt-labs/docs.getdbt.com/pull/5368#issuecomment-2094037155) in [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
+4. 🎉 Merged PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
+5. 💪 Opened PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
 <!--END_SECTION:activity-->
 
 ### Blog posts
