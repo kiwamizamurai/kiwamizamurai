@@ -44,21 +44,3 @@
   </tr>
 </table>
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kiwamizamurai/image2grid/pull/3) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-2. 💪 Opened PR [#3](https://github.com/kiwamizamurai/image2grid/pull/3) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-3. 🗣 Commented on [#5368](https://github.com/dbt-labs/docs.getdbt.com/pull/5368#issuecomment-2094037155) in [dbt-labs/docs.getdbt.com](https://github.com/dbt-labs/docs.getdbt.com)
-4. 🎉 Merged PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-5. 💪 Opened PR [#2](https://github.com/kiwamizamurai/image2grid/pull/2) in [kiwamizamurai/image2grid](https://github.com/kiwamizamurai/image2grid)
-<!--END_SECTION:activity-->
-
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- `2022-04-25` | [Build Modern Data Warehouse with dbt-athena](https://kiwamizamurai.github.io/posts/2022-08-25/)  
-- `2022-04-25` | [How to implement NN from scratch](https://kiwamizamurai.github.io/posts/2022-04-25/)  
-- `2022-03-06` | [How to enable latex on PaperMod](https://kiwamizamurai.github.io/posts/2022-03-06/)  
-
-<!-- BLOG-POST-LIST:END -->
-
