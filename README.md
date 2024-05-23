@@ -1,5 +1,7 @@
 ### mi amas vin 👋
 
+<a href="https://stackexchange.com/users/13359247"><img src="https://stackexchange.com/users/flair/13359247.png" width="208" height="58" alt="profile for kiwamizamurai on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for kiwamizamurai on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 <table>
   <tr>
     <td valign="top" width="25%">
