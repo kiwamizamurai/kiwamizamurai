@@ -29,7 +29,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/observable.svg" width=24 alt=":observable" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/ubiquiti.svg" width=24 alt=":ubiquiti" />
         <br>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/snowflake.svg" width=24 alt=":snowflake" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/latex.svg" width=24 alt=":latex" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/cloudflare.svg" width=24 alt=":cloudflare" />
       </div>
