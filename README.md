@@ -14,8 +14,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/kubernetes.svg" width=24 alt=":kubernetes" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/dbt.svg" width=24 alt=":dbt" />
         <br>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/googlecloud.svg" width=24 alt=":googlecloud" />
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/amazonaws.svg" width=24 alt=":amazonaws" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/terraform.svg" width=24 alt=":terraform" />
         <br>
         </div>
