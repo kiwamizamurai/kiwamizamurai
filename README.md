@@ -13,7 +13,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/python.svg" width=24 alt=":python" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/kubernetes.svg" width=24 alt=":kubernetes" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/dbt.svg" width=24 alt=":dbt" />
-        <br>
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/terraform.svg" width=24 alt=":terraform" />
         <br>
         </div>
@@ -26,8 +25,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/proxmox.svg" width=24 alt=":proxmox" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/observable.svg" width=24 alt=":observable" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/ubiquiti.svg" width=24 alt=":ubiquiti" />
-        <br>
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/cloudflare.svg" width=24 alt=":cloudflare" />
         <img src="https://avatars.githubusercontent.com/u/17420673?s=200&v=4" width=24 alt=":m5stack" />
       </div>
       <!-- ends -->
