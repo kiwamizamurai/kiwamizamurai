@@ -22,6 +22,7 @@
       <b>I like 👀</b><br><br>
       <!-- starts -->
       <div>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/ycombinator.svg" width=24 alt=":ycombinator" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/proxmox.svg" width=24 alt=":proxmox" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/observable.svg" width=24 alt=":observable" />
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@11.13.0/icons/ubiquiti.svg" width=24 alt=":ubiquiti" />
