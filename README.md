@@ -1,5 +1,7 @@
 ### mi amas vin 👋
 
+In 2025, I'm into IoT and InfoSec
+
 <table>
   <tr>
     <td valign="top" width="33%">
