@@ -6,7 +6,7 @@ In 2025, I'm into IoT and InfoSec
   <tr>
     <td valign="top" width="33%">
       <b>You are 📣</b><br><br>
-      <img width="240" src="https://count.getloli.com/get/@:kiwamizamurai?theme=rule34" alt=":kiwamizamurai" />
+      <img width="240" src="https://count.getloli.com/@:kiwamizamurai?name=%3Akiwamizamurai&theme=booru-mjg&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":kiwamizamurai" />
     </td>
     <td valign="top" width="33%">
       <b>I use 👍</b><br><br>
