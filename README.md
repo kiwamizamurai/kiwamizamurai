@@ -4,7 +4,7 @@
 
 
 ### Bio
-I am a data engineer with a strong foundation in mathematics and a mindset shaped by the disruptive and entrepreneurial spirit of Y Combinator.
+I am a data engineer from mathematics and have a mindset shaped by the disruptive and entrepreneurial spirit of Y Combinator.
 I specialize in financial planning and analysis (FP&A), supporting the COO in building profit and loss statements, assisting the CFO in structuring balance sheets, and partnering with the CEO to define and refine company valuations.
 
 > [!TIP]
