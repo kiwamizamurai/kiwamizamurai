@@ -5,7 +5,7 @@
 ### Bio
 I am a data/analytics engineer from pure mathematics.
 
-I love FP&A
+I love FP&A and I am
   - supporting the COO in building profit and loss statements,
   - assisting the CFO in structuring balance sheets,
   - and partnering with the CEO to define and refine company valuations.
