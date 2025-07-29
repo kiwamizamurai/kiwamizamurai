@@ -3,7 +3,7 @@
 
 
 ### Bio
-I am a data/analytics engineer from pure mathematics.
+I am a software engineer from pure mathematics.
 
 I love FP&A and I am
   - supporting the COO in building profit and loss statements,
