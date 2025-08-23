@@ -3,7 +3,7 @@
 
 
 ### Bio
-I'm a Software Engineer for FP&A from Pure Mathematics
+I'm into FP&A from Pure Mathematics
 - Automated budgeting, forecasting, and variance analysis platforms
 - Data pipeline engineering for KPI monitoring and performance analytics
 - Financial modeling: DCF, scenario planning, sensitivity analysis, capital optimization, investor relations
