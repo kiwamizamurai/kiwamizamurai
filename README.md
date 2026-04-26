@@ -20,7 +20,8 @@ I'm from Pure Mathematics
 ![dbt](https://img.shields.io/badge/-dbt-E83E8C?style=flat-square&logo=dbt&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white)
 ![IaC](https://img.shields.io/badge/-IaC-4A90E2?style=flat-square&logo=terraform&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-CC785C?style=flat-square&logo=claude&logoColor=white)
 
 - Lately
 ![M5Stack](https://img.shields.io/badge/-M5Stack-000000?style=flat-square&logo=arduino&logoColor=white)
