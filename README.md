@@ -29,7 +29,6 @@ I'm from Pure Mathematics
 - Lately
 ![M5Stack](https://img.shields.io/badge/-M5Stack-000000?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-2B2D42?style=flat-square&logo=esp32&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5E5086?style=flat-square&logo=haskell&logoColor=white)
 
 
 
