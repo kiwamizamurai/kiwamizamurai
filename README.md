@@ -2,10 +2,6 @@
 <p align="left">
   <img width="160" src="https://count.getloli.com/@:kiwamizamurai?name=%3Akiwamizamurai&theme=moebooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":kiwamizamurai" />
   &nbsp;&nbsp;
-  <a href="https://stackexchange.com/users/13359247">
-    <img src="https://stackexchange.com/users/flair/13359247.png" width="208" height="58" alt="profile for kiwamizamurai on Stack Exchange">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kiwamizamurai&utm_content=line">
     <img src="https://render.gitanimals.org/lines/kiwamizamurai" width="160" alt="GitAnimals line badge">
   </a>
