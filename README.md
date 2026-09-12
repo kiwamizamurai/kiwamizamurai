@@ -21,5 +21,5 @@ I'm from Pure Mathematics
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-CC785C?style=flat-square&logo=claude&logoColor=white)
 
 - Currently exploring
-![M5Stack](https://img.shields.io/badge/-M5Stack-000000?style=flat-square&logo=arduino&logoColor=white)
+![M5Stack](https://img.shields.io/badge/-M5Stack-000000?style=flat-square&logo=m5stack&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-2B2D42?style=flat-square&logo=esp32&logoColor=white)
