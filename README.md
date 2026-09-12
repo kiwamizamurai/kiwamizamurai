@@ -17,7 +17,7 @@ I'm from Pure Mathematics
 - Core stacks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-E83E8C?style=flat-square&logo=dbt&logoColor=white)
-![dlt](https://img.shields.io/badge/-dbt-E83E8C?style=flat-square&logo=dlthub&logoColor=white)
+![dlt](https://img.shields.io/badge/-dlt-E83E8C?style=flat-square&logo=dlthub&logoColor=white)
 ![IaC](https://img.shields.io/badge/-IaC-4A90E2?style=flat-square&logo=terraform&logoColor=white)
 
 - Currently exploring
