@@ -13,7 +13,8 @@
    
 ### Bio
 I'm from Pure Mathematics
-Have been focusing on reverse engineering for anything 
+
+and Have been focusing on reverse engineering for anything 
 
 -  Core stacks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
