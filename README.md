@@ -23,3 +23,4 @@ I'm from Pure Mathematics
 - Currently exploring
 ![M5Stack](https://img.shields.io/badge/-M5Stack-000000?style=flat-square&logo=m5stack&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-2B2D42?style=flat-square&logo=esp32&logoColor=white)
+![Emulator](https://img.shields.io/badge/-Gaming%20Emulator-1E1E1E?style=flat-square&logo=retroarch&logoColor=white)
