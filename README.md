@@ -12,9 +12,7 @@
 
    
 ### Bio
-I'm from Pure Mathematics
-
-and Have been focusing on reverse engineering for anything 
+I'm from Pure Mathematics and Have been focusing on reverse engineering for anything 
 
 -  Core stacks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -25,4 +23,7 @@ and Have been focusing on reverse engineering for anything
 - Currently exploring
 ![M5Stack](https://img.shields.io/badge/-M5Stack-000000?style=flat-square&logo=m5stack&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-2B2D42?style=flat-square&logo=esp32&logoColor=white)
-![Emulator](https://img.shields.io/badge/-Gaming%20Emulator-1E1E1E?style=flat-square&logo=retroarch&logoColor=white)
+![Emulator](https://img.shields.io/badge/-%20Emulator-1E1E1E?style=flat-square&logo=retroarch&logoColor=white)
+
+
+> *Understand the structure, and the operations follow naturally.*
