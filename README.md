@@ -21,9 +21,11 @@ I'm from Pure Mathematics and Have been focusing on reverse engineering for anyt
 ![IaC](https://img.shields.io/badge/-IaC-4A90E2?style=flat-square&logo=terraform&logoColor=white)
 
 - Currently exploring
-![M5Stack](https://img.shields.io/badge/-M5Stack-000000?style=flat-square&logo=m5stack&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-2B2D42?style=flat-square&logo=esp32&logoColor=white)
-![Emulator](https://img.shields.io/badge/-%20Emulator-1E1E1E?style=flat-square&logo=retroarch&logoColor=white)
+ ![CFW](https://img.shields.io/badge/-CFW-37474F?style=flat-square)
+![Embedded/Hardware](https://img.shields.io/badge/-Embedded%2FHardware-00695C?style=flat-square)
+![Modding](https://img.shields.io/badge/-Modding-6A1B9A?style=flat-square)
+![Consoles](https://img.shields.io/badge/-Consoles-455A64?style=flat-square)
+![Dumping/Preservation](https://img.shields.io/badge/-Dumping%2FPreservation-5D4037?style=flat-square)
 
 
 > *Understand the structure, and the operations follow naturally.*
