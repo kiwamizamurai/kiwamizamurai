@@ -23,9 +23,6 @@ I'm from Pure Mathematics and Have been focusing on reverse engineering for anyt
 - Currently exploring
  ![CFW](https://img.shields.io/badge/-CFW-37474F?style=flat-square)
 ![Embedded/Hardware](https://img.shields.io/badge/-Embedded%2FHardware-00695C?style=flat-square)
-![Modding](https://img.shields.io/badge/-Modding-6A1B9A?style=flat-square)
-![Consoles](https://img.shields.io/badge/-Consoles-455A64?style=flat-square)
-![Dumping/Preservation](https://img.shields.io/badge/-Dumping%2FPreservation-5D4037?style=flat-square)
 
 
 > *Understand the structure, and the operations follow naturally.*
